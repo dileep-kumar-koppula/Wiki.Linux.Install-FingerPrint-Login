@@ -21,10 +21,14 @@
 
 ## Updae the Authentication file
 
+This will update both Login screen and in terminal where password is required
+
   ```bash
   sudo pam-auth-update
   ```
-  Click `space`
+  + Click `space` key to select `Fingerprint authentication`
+  + Click `tab` key to select `Ok`
+  + Click `enter` or `space` to save
 
 
 ## Verify the Fingerprint
