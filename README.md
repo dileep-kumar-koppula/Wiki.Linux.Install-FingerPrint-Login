@@ -1,4 +1,4 @@
-# Enable Fingerprint Authentication
+# Enable Fingerprint Authentication using `fprint`
 
 ## Install `fprint`
 
