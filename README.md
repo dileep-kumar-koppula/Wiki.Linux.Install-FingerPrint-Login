@@ -29,10 +29,3 @@ This will update both Login screen and in terminal where password is required
   + Click `space` key to select `Fingerprint authentication`
   + Click `tab` key to select `Ok`
   + Click `enter` or `space` to save
-
-
-## Verify the Fingerprint
-
-  ```bash
-  fprintd-verify
-  ```
