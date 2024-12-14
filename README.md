@@ -19,7 +19,7 @@
   ```
 
 
-## Updae the Authentication file
+## Update the Authentication file
 
 This will update both Login screen and in terminal where password is required
 
